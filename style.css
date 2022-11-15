@@ -1,1 +1,9 @@
-.header {display:flex;}
+.header {display:flex;
+background-color:#1F2937;} 
+.header_text {font-size:48px;
+color:#F9FAF8;
+font-weight: bold;}
+.header_content {display:flex;}
+
+.header_logo {font-size:24px;
+color:#F9FAF8;}
