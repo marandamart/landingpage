@@ -1,5 +1,6 @@
 body {
     display:flex;
+    flex-direction:column;
 }
 .header {
 background-color:#1F2937;
@@ -48,3 +49,10 @@ color:#E5E7EB;
 .image {
     width:400px;
 }
+.header_button {background-color:#3882F6;
+color:white;
+border-radius:8px;
+padding:5px 15px;}
+
+/*  Now the second section */
+
