@@ -4,7 +4,8 @@ body {
 }
 .header {
 background-color:#1F2937;
-width:1200px} 
+width:1200px
+} 
 
 .header_top {display:flex;
 justify-content:space-around;
@@ -36,6 +37,7 @@ font-weight: bold;
     width:800px;
     margin-left:200px;
     gap:15px;
+    margin-bottom:100px;
 }
 
 .header_text {
@@ -56,3 +58,16 @@ padding:5px 15px;}
 
 /*  Now the second section */
 
+.second_element {color:#1F2937;
+margin-top:50px;}
+
+.info {
+    display:flex;
+    justify-content:center ;
+    margin-bottom:50px;}
+
+.subtext {display:flex;
+gap:60px;
+justify-content:space-around;}
+.subsubtext {width:100px;
+}
