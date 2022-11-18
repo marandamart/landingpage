@@ -6,7 +6,7 @@ background-color:#1F2937;
 width:1200px} 
 
 .header_top {display:flex;
-justify-content:space-between;
+justify-content:space-around;
 padding-top:10px;
 }
 
