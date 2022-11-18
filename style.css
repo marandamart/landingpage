@@ -1,4 +1,5 @@
 body {
+    display:flex;
 }
 .header {
 background-color:#1F2937;
@@ -35,5 +36,6 @@ font-weight: bold;
 color:#E5E7EB;
 }
 
-.placeholder_img {background-color:darkgray;
+.image {height:60px;
+    width:100px;
 }
