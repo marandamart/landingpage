@@ -59,7 +59,7 @@ padding:5px 15px;}
 
 /*  Now the second section */
 
-.second_element {color:#1F2937;
+.second_element {color:#38485f;
 margin-top:50px;
 display:flex;
 flex-direction:column;
@@ -100,3 +100,6 @@ margin-left:100px;
 font-weight:bold;
 font-size:22px;
 margin-top:5px;}
+
+    /* fourth section */
+    
