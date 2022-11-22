@@ -1,7 +1,7 @@
 body {
     display:flex;
     flex-direction:column;
-    width:1200px
+    margin:0;
 }
 .header {
 background-color:#1F2937;
@@ -109,7 +109,8 @@ display:flex;
 justify-content:center;
 padding:40px;}
 
-.leftcontent {width:550px;}
+.leftcontent {width:550px;
+color:#F9FAF8}
 
     .call {font-size:24px;
     font-weight:bold;}
