@@ -1,10 +1,11 @@
 body {
     display:flex;
     flex-direction:column;
+    width:1200px
 }
 .header {
 background-color:#1F2937;
-width:1200px
+
 } 
 
 .header_top {display:flex;
@@ -59,15 +60,25 @@ padding:5px 15px;}
 /*  Now the second section */
 
 .second_element {color:#1F2937;
-margin-top:50px;}
+margin-top:50px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items: center;}
 
 .info {
     display:flex;
-    justify-content:center ;
-    margin-bottom:50px;}
+    margin-bottom:50px;
+    font-size:36px;
+    font-weight:bold;}
 
 .subtext {display:flex;
-gap:60px;
-justify-content:space-around;}
-.subsubtext {width:100px;
+gap:30px;
+}
+.subsubtext {width:150px;
+}
+
+.threeghosts {width:150px;
+    display:inline;
+    justify-content:center;
 }
