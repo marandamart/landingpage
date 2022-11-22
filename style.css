@@ -81,4 +81,6 @@ gap:30px;
 .threeghosts {width:150px;
     display:inline;
     justify-content:center;
+    border:5px solid #3882F6;
+    border-radius:8px;
 }
