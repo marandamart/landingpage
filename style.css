@@ -104,7 +104,18 @@ margin-top:5px;}
     /* fourth section */
 .fourthsection {padding:60px;}
 
-.fourthcontent {background-color:#3882F6}
+.fourthcontent {background-color:#3882F6;
+display:flex;
+justify-content:center;
+padding:40px;}
+
+.leftcontent {width:550px;}
+
+    .call {font-size:24px;
+    font-weight:bold;}
+    .signup {font-size:20px;}
+.rightcontent {display:flex;
+    align-items:center;}
 
 /* fifth secion */
 
