@@ -64,7 +64,8 @@ margin-top:50px;
 display:flex;
 flex-direction:column;
 justify-content:center;
-align-items: center;}
+align-items: center;
+margin-bottom:65px;}
 
 .info {
     display:flex;
@@ -84,3 +85,18 @@ gap:30px;
     border:5px solid #3882F6;
     border-radius:8px;
 }
+
+/* third section */
+.thirdsection { background-color:#E5E7EB;
+padding:100px;
+}
+.first {width:800px;
+font-size:36px;
+font-style:italic;
+font-color: #1F2937;
+margin-left:100px;
+}
+.second {margin-left:500px;
+font-weight:bold;
+font-size:22px;
+margin-top:5px;}
